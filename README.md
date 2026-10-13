@@ -261,7 +261,9 @@ Workflow запускается при отправке изменений в в
 6. Повторный запуск GitHub Actions завершился со статусом `Success`.
 7. Оба задания — `Sanity Check` и `Mirror to backup repository` — завершились успешно.
 8. 
-![Uploading image.png…]()
+<img width="1218" height="977" alt="image" src="https://github.com/user-attachments/assets/4d87c6ac-81bd-4df9-94b4-859a7999f1e0" />
+<img width="1210" height="804" alt="image" src="https://github.com/user-attachments/assets/0195bdac-c17a-48c9-97c0-2a91c81fa798" />
+
 
 ## 5. Контрольные ссылки
 
